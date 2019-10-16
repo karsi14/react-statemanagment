@@ -10,4 +10,4 @@ const Movie = ({name, price}) => {
     );
 }
 
-export default Movie;
+export default Movie; 
